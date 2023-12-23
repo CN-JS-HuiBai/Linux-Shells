@@ -13,5 +13,3 @@ docker run --name jellyfin \
     -v /mnt:/mnt \
     -v /media:/media \
     jjm2473/jellyfin-mpp:latest
-
-    
