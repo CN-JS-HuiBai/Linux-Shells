@@ -9,3 +9,4 @@ docker run -d \
     hevc_service hevc-service rkvdec rkvenc vepu h265e ; do \
     [ -e "/dev/$dev" ] && echo " --device /dev/$dev"; \
     done` \
+    nyanmisaka/jellyfin:latest-rockchip
