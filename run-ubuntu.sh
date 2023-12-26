@@ -4,6 +4,6 @@ docker run -d \
     --privileged=true \
     --net=host \
     docker.io/library/ubuntu:latest	 \
-    /usr/sbin/init
+    /bin/bash
 
 
