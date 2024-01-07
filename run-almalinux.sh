@@ -5,5 +5,3 @@ docker run -d \
     --net=host \
     docker.io/almalinux/9-init:latest \
     /usr/sbin/init
-
-
